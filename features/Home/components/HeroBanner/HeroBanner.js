@@ -4,11 +4,11 @@ const HeroBanner = () => {
   return (
     <Box
       position="relative"
-      minHeight={{ base: "110vh", sm: "60vh" }}
+      minHeight={{ base: "30vh", sm: "60vh" }}
       backgroundImage={`url("./hero/wp.jpg")`}
       backgroundPosition="bottom"
       backgroundSize="cover"
-      backgroundAttachment="fixed"
+      backgroundAttachment={{ sm: "fixed" }}
     ></Box>
   );
 };
