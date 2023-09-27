@@ -100,7 +100,7 @@ const SingleProperty = ({ property }) => {
                 fontSize="1rem"
               >
                 {amenities.length
-                  ? amenities.map((item) => <Text>{item}</Text>)
+                  ? amenities.map((item, key) => <Text key={key}>{item}</Text>)
                   : "Please contact us for more information"}
               </SimpleGrid>
             </TextContentBox>
