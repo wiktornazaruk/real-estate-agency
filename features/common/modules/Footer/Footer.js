@@ -60,7 +60,7 @@ const Footer = () => {
           </Text>
         </Box>
         <Text marginTop="1rem" fontSize="xs" textAlign="center">
-          All rights reserved - Copyright REAL ESTATE AGENCY
+          All rights reserved - © Urban Elegance Properties
         </Text>
       </Box>
     </Box>
