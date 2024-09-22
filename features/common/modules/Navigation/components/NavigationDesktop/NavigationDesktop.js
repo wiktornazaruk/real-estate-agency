@@ -22,7 +22,7 @@ const NavigationDesktop = () => {
             >
               <GiHouse size="29" />
               <Text fontSize="2xl" fontWeight="black">
-                REAL ESTATE AGENCY
+                Urban Elegance Properties
               </Text>
             </Box>
           </Link>
