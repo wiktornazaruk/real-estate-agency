@@ -56,7 +56,7 @@ const Footer = () => {
         <Box display="flex" gap="2" alignItems="center">
           <GiHouse />
           <Text fontSize="lg" fontWeight="black">
-            REAL ESTATE AGENCY
+            Urban Elegance Properties
           </Text>
         </Box>
         <Text marginTop="1rem" fontSize="xs" textAlign="center">
